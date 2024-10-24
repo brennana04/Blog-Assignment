@@ -24,7 +24,7 @@ In the Maharani Temple in Burma, there is a massive statue of Buddha that has be
 
 ##### Works Cited
 ###### Drewes, David. "Intro to Buddhism, Lecture." University of Manitoba, Winnipeg, Manitoba, October 8, 2024. 
-###### Liu, Xiangu and Xinyi Huang. "Gold, Skin, and Body: Chinese Buddha Statues Are Constantly Being Shaped and Stripped." MDPI: _Religions_**2023**, _14_, 155 (2023): 1-19.
+###### Liu, Xiangu and Xinyi Huang. "Gold, Skin, and Body: Chinese Buddha Statues Are Constantly Being Shaped and Stripped." MDPI: _Religions_ **2023**, _14_, 155 (2023): 1-19.
 
 
 
