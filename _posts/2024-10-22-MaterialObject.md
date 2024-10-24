@@ -3,6 +3,9 @@ layout: post
 title: "Material Object Blog: RLGN 3540"
 ---
 # Gold Leaf in Buddhism
+
+![This is an alt text.](https://upload.wikimedia.org/wikipedia/en/7/7d/Minions_characters.png "This is a sample image.")
+
 ## Gold Leaf
 In traditional Buddhist countries, there is a heavy emphasis on worship to statues depicting Buddha, often kept in temples called Pagodas. In many of these Pagodas, there are thin sheets of gold leaf that can be purchased to be placed on these statues of the Buddha. These sheets are made by pounding gold into leaves into a fraction of the thickness of a sheet of standard printer paper. Workers wield 15-pound hammers and workers spent their entire working days pounding the gold into these leaves.  The leaves are almost completely pure gold, which is a valuable metal in all parts of the world, and they are used to adorn the Buddha and temples in many Buddhist countries because of its beauty and rareness.
 ## Use 
