@@ -4,7 +4,7 @@ title: "Material Object Blog: RLGN 3540"
 ---
 # Gold Leaf in Buddhism
 
-![Gold Leaf for Sale.](https://github.com/brennana04/Blog-Assignment/blob/master/assets/IMG_1354.jpeg) "Photo from Dr. David Drewes"
+![Gold Leaf for Sale.](https://github.com/brennana04/Blog-Assignment/blob/master/assets/IMG_1354.jpeg) 
 ###### Photo from Dr. David Drewes
 
 ## Gold Leaf
