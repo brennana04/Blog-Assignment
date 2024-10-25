@@ -22,9 +22,7 @@ In traditional Buddhist countries, there is a heavy emphasis on worship to statu
 ## Connection to Gender
 In the Maharani Temple in Burma, there is a massive statue of Buddha that has been covered in gold leaf throughout the years, outside of the area where the statue resides, there is a sign that says, in Burmese and English “Ladies are not allowed to enter”. In most parts of the world, the systems are very patriarchal, and in Buddhism, there is historical and scriptural context that supports a patriarchal system. The exclusion of women from this opportunity to make good karma and therefore have a better shot at a future life when reincarnated is just one way that the patriarchy exudes its power over women. 
 
-##### Works Cited
-###### Drewes, David. "Intro to Buddhism, Lecture." University of Manitoba, Winnipeg, Manitoba, October 8, 2024. 
-###### Liu, Xiangu and Xinyi Huang. "Gold, Skin, and Body: Chinese Buddha Statues Are Constantly Being Shaped and Stripped." MDPI: _Religions_ **2023**, _14_, 155 (2023): 1-19.
+
 
 
 
