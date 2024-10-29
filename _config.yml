@@ -3,8 +3,8 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Ainsley's Blog! ❤
-tagline:          ''
+title:            Studying with Ainsley ☕️
+tagline:          'A Blog for Religious Studies'
 description:      ''
 url:              https://brennana04.github.io
 baseurl:          '/Blog-Assignment/'
