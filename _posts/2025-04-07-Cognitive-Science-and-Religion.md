@@ -1,4 +1,4 @@
 ---
 layout: post
-title: Assignment 4 - Cognitive Science and Religion 
+title: Belief -- Barrett's Basics
 --- 
