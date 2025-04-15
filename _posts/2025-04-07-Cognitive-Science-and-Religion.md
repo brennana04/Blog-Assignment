@@ -11,7 +11,7 @@ Hello all. Welcome to this edition of Studying with Ainsley. This is my final di
 
 
 
-### What is Belief? 
+## What is Belief? 
 
 Imagine that your brain is a toolbox. Equipped with a variety of tools, the possibilities of what you can build with your mind is endless! Your brain has tools for "languages, other tools for processing information through the eyes, and other tools for making sense of other people's behaviours" (3). 
 
@@ -54,7 +54,7 @@ It's important to note that just because we have these two different mental proc
 
 
 
-### Hypersensitive Agency Detection Devices (HADD) 
+## Hypersensitive Agency Detection Devices (HADD) 
 ##### ... or why bumps in the night scare us
 
 
