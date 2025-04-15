@@ -35,6 +35,9 @@ You can think of NRBs as quick, requiring no effort on your behalf, and efficien
 
 ##### Reflective Beliefs 
 
+Reflective beliefs (RBs) are a bit more complicated. These are the mental processes that require us to pause and take a second to think. With reflective beliefs, we can "weigh the pros and cons, examine the evidence for, and then make a decision" regarding whatever content is in front of us. 
+
+It's important to note that just because we have these two different mental processes, doesn't mean that either one is necessarily correct. We have incorrect NRBs and RBs all the time. 
 
 ## The Ingredients for Believing
 
