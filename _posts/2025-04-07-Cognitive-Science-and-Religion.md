@@ -15,7 +15,7 @@ Hello all. Welcome to this edition of Studying with Ainsley. This is my final di
 
 According to Justin L. Barrett, "belief is fundamentally a mental process" (2). Barrett theorizes that there are two types of beliefs: non-reflective beliefs, and reflective beliefs. 
 
-
+![Brain as a toolbox](https://raw.githubusercontent.com/brennana04/Blog-Assignment/refs/heads/master/assets/IMG_2308.jpeg)
 
 ##### Non-Reflective Beliefs 
 
@@ -36,9 +36,15 @@ According to Justin L. Barrett, "belief is fundamentally a mental process" (2). 
 
 
 
+![Talking Tree.](https://raw.githubusercontent.com/brennana04/Blog-Assignment/refs/heads/master/assets/IMG_2307.jpeg)
+
+
 
 ### Hypersensitive Agency Detection Devices (HADD) 
 ##### Why bumps in the night scare us
+
+
+![Jeopardy meme](https://raw.githubusercontent.com/brennana04/Blog-Assignment/refs/heads/master/assets/IMG_2311.jpeg)
 
 
 
