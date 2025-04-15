@@ -28,7 +28,9 @@ Barrett theorizes that there are two types of beliefs: non-reflective beliefs, a
 
 ##### Non-Reflective Beliefs 
 
+Non-reflective beliefs (NRBs) "operate without our awareness" (6). NRBs, or for our purposes, non-reflective mental processes, explain why we expect things to fall when we drop them, or avoid running directly into people in a busy hallway. 
 
+You can think of NRBs as quick, requiring no effort on your behalf, and efficient at helping you function day-to-day. After all, it would be really inconvenient if you had to test whether or not a floor was capable of holding up your weight every time you step into a new room...
 
 
 ##### Reflective Beliefs 
